@@ -24,7 +24,7 @@ This repository serves as a playground for my deep learning endeavors, providing
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Abmstpha/DeepLearningProjects.git
+   git clone git@github.com:Abmstpha/DeepLearningProjects.git
    ```
 
 2. **Explore Projects:**
